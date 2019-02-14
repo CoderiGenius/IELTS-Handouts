@@ -17,8 +17,8 @@
     - （杜仕明）发展机器人可以让人们更轻松的工作。
 ### 小段落 
 #### 即一个段落只负责一个idea
-### 段落展开逻辑公式
-#### Topic sentence + Explanation + Example +（反向假设/对比/总结重复）
+## 段落展开逻辑公式
+### 公式1 Topic sentence + Explanation + Example +（反向假设/对比/总结重复）
 - Explanation 如何写
     - ts是结果——>解释原因---》this is because---解释要给后面的举例留空间，所以别太细
     - ts是现象——>带来的结果---》this means that
@@ -29,7 +29,31 @@
             - 扩展别太着急，细说举例怎么跟朋友沟通才算是举例
     - 也可以把topic sentence用从句复杂化，比如if来引导，或者when来引导
 
+#### ts后的细节解释句
+- 换同义词
+- 细节化改写，比如更清晰地介绍，把陈述的事实所适用的方面限制起来
 
+### 公式2 Topic Sentence + 知识细化+知识细化+（知识细化）
+#### 举例的时候多用状语从句和修饰名词，且要注意描述。而且要specific，不能说这个观点拿到拿都好使，必须细化
+##### 想举另一个栗子，用
+- in addition
+- in a similar way
+##### Explanation 练习
+- ts：确实，不同年级的人会有不同的消费习惯
+- Explanation：这是因为，随着年龄的增长，人们的需求和兴趣发生很大的变化
+- 这里的随着，不要用with，用as试试，状语从句
+- 接下来就应该是：比如说…… 且举的例子应该是从小的开始，因为是随着年龄的增长
+- 结尾：in shorts 在人生的不同阶段，人们把钱花在不同的商品和服务上
+- 结尾可以对ts细化总结
+### 大段落
+- 两个小段落的合并
+- ts（笼统的ts） + idea1（support）+ idea2（support）
+- 这样的段落里有明确的分论点
+- support一般有三种可能 ：This is because ……/This means that ……/For example
+
+
+#### tips：大段落还是小段落，取决于你的个人观点，取决于题目。好坏题，disguss题大段落多一点 是否赞同题小段落多一点
+---
 
 ## 大幅提升写作的十句话
 ### 题目举例
@@ -58,3 +82,9 @@
 - if 引导的状语从句
     - 举例：如果前面的ts发生，会怎么怎么样，然后在for example
     - 一般都放在ts后面，很方便的细化解释
+
+---
+## 写作纠错网站
+- ++https://www.grammarly.com++ 推荐
+- https://virtualwritingtutor.com/
+- https://www.nounplus.net
