@@ -85,6 +85,23 @@
 
 ---
 ## 写作纠错网站
-- ++https://www.grammarly.com++ 推荐
+- https://www.grammarly.com 推荐
 - https://virtualwritingtutor.com/
 - https://www.nounplus.net
+ 
+
+---
+### 状语从句的使用
+#### 状语从句的用法
+- 介绍段的状语从句
+    - 随着（As）……，……
+        - 背景介绍，改写原题
+        - 大家一般都原意用with，这点不好
+        - 举例：As the number of university graduates has been growing, the competition in job market is more intense.
+    - 虽然（Although/while）……但是……
+- 核心段的状语从句
+    - if……，then…… 用来举例的条件状语从句，可以放在ts后面做解释，雅思议论文不能出现疑问句，但是可以出现反问句
+        - if+定语从句：If everything they do must have some educational or academic relevance,then they will soon get tired of studying, which is the last thing par
+    - ……so/so that
+- 结尾段的状语从句
+    - 虽然 Although/while ……但是……
