@@ -133,6 +133,26 @@
 - 3.in addition，第二个原因分析（idea--support）
 - 4.~~~（过度句--强调问题很严重/强调做某事很重要）~~~~so measures should be taken to ………… 解决方案1+结果 解决方案2 +结果
 - 5.总结（重复原因/解决方案）
+### 写原因段的逻辑
+#### TS + explanation + 回应题目（这是最应该学会也是最自然的解释原因方式）
+- 这里的TS必须是事实，TS要客观详细好扩展，有年代对比更好；
+- 这里的explanation是根据前面的事实来展开
+    - 包括：对比，影响，解释，举例
+##### 句子举例
+- the first reason for + 名词 + is that 
+- the first reason why + 句子 + is that 
+-  +is also a result of +
+- +is associated with+ 
+### 解决方案 -- 切实可行
+- 政府 -- 至关重要（收税/花钱/颁布法律）
+    - The government could impose higher taxes on …… so that ……
+    - What the government should do is to invest in…… /financially support ……/spend money doing……
+    - The government ought to require ……to……
+- 个人
+- 家长
+- 学校
+- 公司
+- authorities
 ---
 ## task1
 ### 题型
