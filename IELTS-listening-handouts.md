@@ -1,0 +1,56 @@
+# 第一章
+- accommodation
+- dormitory
+- homestay
+- hostel
+- cloakroom
+- dining room
+- suburb
+
+---
+
+- washing machine
+- dishwasher
+- air-conditioner
+- microwave oven
+- water heater
+- vacuum
+- coffee maker
+- stereo
+- cassette
+- fireplace
+- cupboard
+- closed circuit TV
+---
+- refectory
+- bakery
+- auditorium
+- lounge
+- foyer
+- code
+---
+- applicant
+- deposit
+- Bank Holiday
+- insurance
+---
+- demand
+- antique
+- refundable
+- let
+- vegetarian
+- alteration
+- Friendly Faces
+- exterior
+- **disturbance**
+- large-scale housing
+- expance
+- cancel
+- budget
+- surrounding
+- intermediate
+- maximum
+- pupil
+- parental
+- aunt
+- cousin
