@@ -1,3 +1,9 @@
+# 听力
+## 注意
+- 加不加s
+- 大不大写
+
+---
 # 第一章
 - accommodation
 - dormitory
@@ -54,3 +60,75 @@
 - parental
 - aunt
 - cousin
+---
+# 第二章
+- excursion
+- guided tour
+- flight
+- cruise
+- available
+- mall
+- pedestrian
+- World Expo
+- wheelchair
+- self-valuation
+- standard
+- **stern**
+- Queens
+---
+- transportation
+- vehicle
+- double-decker
+- minibus
+- coach
+- four-whell drive
+- tram
+- scooter
+- cable
+- **caravan**
+- gear
+- automatic
+- manual
+- mileage
+- metallic
+- seat
+- roll over
+- brake
+- second-hand
+- intersection
+- corner
+---
+- adventure
+- climbing
+- volcano
+- temple
+- Clifton
+- maze
+- tropical
+- mill 
+- Rose Garden
+- puppet
+- clown
+- **acrobatic**
+- troupe
+- circus
+- Blue Bay
+- padding pool
+- Towel of London
+- Stonehenge
+- showroom
+- cathedral
+- castle
+- botanical garden
+- palace
+- Northgate
+---
+- clothes
+- trousers
+- badge
+- atlas
+- cosmetics
+- electronic
+- apron
+- comment card
+- booklet
