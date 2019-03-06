@@ -132,3 +132,30 @@
 - apron
 - comment card
 - booklet
+# 第三章
+- recruit
+- upset
+- extra
+- personnel
+- occupation
+- vecant
+- advertise
+- board
+- noticeboard
+- **counsel**
+- consult
+- reference
+- medal
+- customer
+- costume
+- custome
+- consume
+- candidate
+- skill
+- reception desk
+---
+- deputy
+- settler
+- undergraduate
+- volunteer
+- 
