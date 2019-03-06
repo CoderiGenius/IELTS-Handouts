@@ -1,0 +1,28 @@
+# 13
+- notion
+- essence
+- contingent on……
+- demographics
+- reinforcement
+- dealing
+- expedition
+- expense
+- revenue
+- duration
+- perspective
+- definition
+- proportion
+- regardless
+- expenditure
+- heritage
+- decade
+- overview
+- object n.
+- ratio
+- outlook
+- conception
+- objective n.
+- objection
+- draw on
+- underscore
+- suspense
