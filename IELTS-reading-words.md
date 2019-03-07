@@ -1,28 +1,47 @@
 # 13
 - notion
-- essence
+- **essence**
 - contingent on……
 - demographics
 - reinforcement
 - dealing
 - expedition
 - expense
-- revenue
+- **revenue**
 - duration
 - perspective
 - definition
 - proportion
 - regardless
-- expenditure
+- **expenditure**
 - heritage
 - decade
 - overview
 - object n.
 - ratio
 - outlook
-- conception
+- **conception**
 - objective n.
 - objection
-- draw on
+- **draw on**
 - underscore
 - suspense
+
+# 超高频词汇
+- notoriety
+- reclamation 
+- assimilation
+- evolve
+# 12
+- revise
+- bid
+- refine
+- livestock
+- accumulate
+- convert
+- hydraulic
+- retate
+- literacy
+- illiterate
+- poultry
+- fertilise
