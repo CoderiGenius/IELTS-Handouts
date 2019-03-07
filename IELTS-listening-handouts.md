@@ -2,6 +2,8 @@
 ## 注意
 - 加不加s
 - 大不大写
+- 看填几个词
+- 空不空格
 
 ---
 # 第一章
@@ -158,4 +160,33 @@
 - settler
 - undergraduate
 - volunteer
+# 第四章
+- catering
+- buffet
+- feast
+- salad
+- protein
+- cutlery
+- untensil
+- chill
+---
+- flu
+- allergic
+- dizzy
+- pharmacy
+- therapy
+- stroke
+- check-up
+- sprain
+- symptom
+- painkiller
+- surgeon
+- sore
+- eyedrop
+- stuffed
+- stiff
+- bandage
+- capsule
+- penicillin
+- vitamin
 - 
