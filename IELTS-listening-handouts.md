@@ -3,6 +3,7 @@
 - 加不加s
 - 大不大写
 - 看填几个词
+- 看填空词性
 - 空不空格
 
 ---
@@ -189,4 +190,46 @@
 - capsule
 - penicillin
 - vitamin
-- 
+# 第五章
+- pitch
+- training
+- trial
+- bowling
+- tennis
+- squash
+- cooperative
+- balloon
+- arm badge
+- safety
+- instrument
+- piano
+- drum
+- cello
+- jazz
+- orchestra
+- symphony
+# 第六章
+- oyster
+- wax
+- polish
+- worm
+- parasite
+- dargonfly
+- butterfly
+- resistant
+- mammal
+- kangaroo
+- penguin
+- koala
+- dinosaur
+- deer
+- boar
+- chick
+- bone
+- falcon
+- feather
+- fur
+- ecosystem
+- material
+- mulberry
+- lettuce
