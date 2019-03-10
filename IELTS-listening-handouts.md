@@ -233,3 +233,20 @@
 - material
 - mulberry
 - lettuce
+# 第七章
+- York
+- Bath
+- Manchester
+- Berlin
+- Moscow
+- Alaska
+- Toronto
+- Sydney
+- Melbourne
+- Darwin
+- Nationality
+- Japanese
+- Canadian
+- Irish
+- Pacific
+- 
