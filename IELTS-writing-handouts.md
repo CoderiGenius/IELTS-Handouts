@@ -158,6 +158,7 @@
 
 ### agree or disagree类题目
 - totally agree --- 顺着题目写（出现几率最低）
+    - 注意两面都要提到
 - completely disagree--- 逐一反驳（比较高的可能性，怼起来比较爽）
 - 一分为二的来看问题（必须是一个明确的个人观点，要求比较高的掌控力）
     - 虽然我承认……但是我认为……
@@ -178,6 +179,7 @@
 - 选择一面 使劲写就行
 ### outweight 题目
 - 写两面 分出多少
+- 用虽然但是
 ---
 ## task1
 ### 题型
@@ -197,3 +199,17 @@
     - 比如![image](https://s2.ax1x.com/2019/03/08/kzfaeU.jpg)分了三个部分
 - 这里要按照规律，比如三个窗户怎么样，三个屋顶怎么样![image](https://s2.ax1x.com/2019/03/08/kzTCeP.jpg)
 #### 
+
+
+### 开头介绍段的练习
+#### 改写原题观点+个人看法
+- report
+- 是否赞同
+- 好坏类题目
+#### 根据题目得出相关背景句+直接给出个人观点
+- discuss
+#### 提炼争论点 用简单模板句 
+- e.g.
+    - people have different views about
+    - opinions are divided on whether ……
+- 适合所有类型 除了report
