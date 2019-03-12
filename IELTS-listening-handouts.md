@@ -249,4 +249,21 @@
 - Canadian
 - Irish
 - Pacific
-- 
+# 第八章
+- register
+- whiteboard
+- semester
+- enrol
+- orientation
+- virtual
+- syllabus
+- postpone
+- illustration
+- series
+- intercourse
+- analysis
+- organisation
+- field trip
+- component
+- examination
+- hit
