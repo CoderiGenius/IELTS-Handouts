@@ -29,6 +29,8 @@
 
 # 超高频词汇
 - notoriety
+- hindered
+- fertiliser
 - reclamation 
 - assimilation
 - evolve
@@ -45,3 +47,9 @@
 - illiterate
 - poultry
 - fertilise
+
+---
+1. exclusive
+2. elusive
+3. breed
+4. demise
