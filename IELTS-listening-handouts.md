@@ -484,3 +484,26 @@
 - route
 - navigate
 - survey
+---
+---
+# 第一章
+- accommodation
+- dormitory
+- hostel
+- cloakroom
+- vacuum
+- cupboard
+- circuit
+- bakery
+- auditorium
+- lounge
+- code
+- demand
+- antique
+- refundable
+- vegetarian
+- disturbance
+- expance
+- surrounding
+- maximum
+- parental
