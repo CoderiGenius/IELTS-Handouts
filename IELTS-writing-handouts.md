@@ -114,7 +114,11 @@
 > ##### 1) 一方弱一方强
 > - 第一种情况：这个题目的两个观点让你一瞬间感受到了弱强的区别，所以你打算按照“虽然但是”的逻辑来展开讨论
 > ##### 2) 两个观点必须共存
-
+> ###### 例句
+> - 1. I believe that rules and freedom play **equally important** roles in the development of young children, so they should **co-exist** in the growth of every child. 
+> - 2. I believe that the **joint effort** of the government and individuals is the key to eradicating environmental problems. 
+> - 3. I believe that a **combination** of skyscrapers and houses is an ideal strategy of city planning.
+> - 4. I believe that **both** punishments **and** other measures should be used together to make roads safer.
 
 ### Two Questions = Report
 > #### 1.原因分析 + 解决方案
@@ -213,3 +217,22 @@
     - people have different views about
     - opinions are divided on whether ……
 - 适合所有类型 除了report
+
+### 小作文步骤
+- 确定时态,写在题目上！
+- 分组！
+- 单词背诵
+    - approximately
+    - respectively
+    - illustrate
+    - proportion
+    - percentage
+    - majority
+    - figure
+    - significantly
+    - dramaticaly
+    - smoothly
+    - fluctuate
+    - dominant
+    - several
+    - 
