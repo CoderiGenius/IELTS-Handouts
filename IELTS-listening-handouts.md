@@ -507,3 +507,51 @@
 - surrounding
 - maximum
 - parental
+# 第二章
+- available
+- wheelchair
+- self-valuation
+- stern
+- vehicle
+- minibus
+- coach
+- four whell
+- tram
+- scooter
+- caravan
+- gear
+- automatic
+- mileage
+- metallic
+- roll over
+- brake
+- intersection
+- corner
+- adventure
+- volcano
+- maze
+- tropical
+- puppet
+- arobatic
+- troupe
+- padding
+- cathedral
+- castle
+- botanical garden
+- trousers
+- atlas
+- apron
+# 第三章
+- recruit
+- personnel
+- vecant
+- notice board
+- counsel
+- consult
+- medal
+- customer
+- costume
+- custome
+- consume
+- candidate
+- reception
