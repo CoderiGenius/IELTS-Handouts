@@ -632,3 +632,43 @@
 - rival
 - swamp
 - stainable
+--- 
+- unsocial
+- pal
+- sociable
+- commission
+- monopoly
+- sponsor
+- laser
+- textile
+- psychology
+- youthful
+- introductory
+---
+- astronomy
+- steel
+- fund
+- flourish
+- tongue
+- scent
+- immune
+- tyre
+- whell
+- chain
+- manufacture
+- mechanism
+- robot
+- architect
+---
+- conqueror
+- peasant
+- precious
+- tribe
+- scotland
+- castle
+- soldier
+- steel
+- mothproof
+- vertical
+- camel
+- concentrate
