@@ -235,4 +235,15 @@
     - fluctuate
     - dominant
     - several
+    - corresponding
+#### 流程图
+- 需要记住的
     - 
+### 大作文步骤
+- 划关键词
+- agree题目
+    - agree disagree 还是一分为二
+- discuss类题目
+    - 虽然但是
+    - equally important
+    -
